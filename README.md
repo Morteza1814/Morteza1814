@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Morteza1814
-- 👀 I’m interested in Computer Architecture, Bio Indformatics, and Domain Specific Accelerators
+- 👀 I’m interested in Computer Architecture, Bio Informatics, and Domain Specific Accelerators
 - 🌱 I’m currently learning about Bio world
 - 💞️ I’m looking to collaborate on any project which fits in my expertise scope.
 - 📫 How to reach me: morteza@virginia.edu
