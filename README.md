@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Morteza!
-- 👀 I’m interested in Computer Architecture, Domain Specific Accelerators, and Bioinformatics
-- 🌱 I’m currently learning about Bio world and conducting a research in the secondary analysis part of genome sequencing!
+- 👀 My research focuses on applying Processing-in-Memory (PIM) architectures to diverse applications, such as Large Language Models (e.g., Transformers), Graph Processing (e.g., Triangle Counting), Hyperdimensional Computing, and Bioinformatics (e.g., DNA genome alignment).
+- 💡 I developed a genome alignment tool called PARMIK, which surpasses BLAST in both speed and accuracy. This work was recently submitted to Genome Biology.
 - 💞️ I’m looking to collaborate on any project which fits in my expertise scope.
 - 📫 How to reach me: morteza@virginia.edu
 
